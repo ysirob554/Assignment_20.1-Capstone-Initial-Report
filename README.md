@@ -1,4 +1,4 @@
-# Code Example
+# Read Me
 Initial report for the Capston project. Cleaned the data, made a baseline model
 Project Summary:
 This project analyzes a stroke prediction dataset to predict stroke occurance based on patient characteristics such as age, BMI, glucose levels, and lifestyle factors. Exploratory Data analysis was performed, missing values and outliers were handled, and a Random Forest Classification model was developed to create a baseline model and evaluate predictive patterns within the dataset.
